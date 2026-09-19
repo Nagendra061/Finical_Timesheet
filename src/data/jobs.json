@@ -1,0 +1,72 @@
+[
+  {
+    "id": "JOB20260045",
+    "organizationId": "ORG-001",
+    "clientId": "CLI00120",
+    "title": "Registered Nurse (ICU/Med-Surg)",
+    "department": "Nursing",
+    "location": "Dallas, TX",
+    "employmentType": "Contract",
+    "status": "Active",
+    "description": "Provide acute critical patient care across 12-hour rotating clinical shifts.",
+    "createdAt": "2026-08-01T09:00:00Z",
+    "updatedAt": "2026-08-15T10:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "JOB20260046",
+    "organizationId": "ORG-001",
+    "clientId": "CLI00121",
+    "title": "Principal Cloud Solutions Architect",
+    "department": "Infrastructure",
+    "location": "New York, NY (Hybrid)",
+    "employmentType": "Contract",
+    "status": "Active",
+    "description": "Design multi-region cloud resilience architectures and zero-trust security mesh.",
+    "createdAt": "2026-07-01T10:00:00Z",
+    "updatedAt": "2026-07-15T11:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "JOB20260047",
+    "organizationId": "ORG-001",
+    "clientId": "CLI00121",
+    "title": "Senior Full Stack Java Engineer",
+    "department": "Core Banking",
+    "location": "New York, NY (Remote)",
+    "employmentType": "Contract",
+    "status": "Active",
+    "description": "Build high-throughput transaction routing services using Spring Boot and Kafka.",
+    "createdAt": "2026-06-05T09:30:00Z",
+    "updatedAt": "2026-06-10T14:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "JOB20260048",
+    "organizationId": "ORG-001",
+    "clientId": "CLI00122",
+    "title": "ER Nurse Specialist",
+    "department": "Emergency Care",
+    "location": "Chicago, IL",
+    "employmentType": "Contract",
+    "status": "Active",
+    "description": "Trauma triage and rapid stabilization nurse support.",
+    "createdAt": "2026-08-10T11:00:00Z",
+    "updatedAt": "2026-08-12T09:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "JOB20260049",
+    "organizationId": "ORG-001",
+    "clientId": "CLI00123",
+    "title": "Site Reliability DevOps Lead",
+    "department": "Platform Engineering",
+    "location": "San Francisco, CA (Remote)",
+    "employmentType": "Contract",
+    "status": "Active",
+    "description": "Kubernetes cluster scaling, GitOps CI/CD delivery pipelines, and observability.",
+    "createdAt": "2026-05-15T10:00:00Z",
+    "updatedAt": "2026-05-20T16:00:00Z",
+    "version": 1
+  }
+]

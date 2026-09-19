@@ -1,0 +1,124 @@
+[
+  {
+    "id": "INV20260012",
+    "organizationId": "ORG-001",
+    "clientId": "CLI00120",
+    "invoiceNumber": "INV-2026-0012",
+    "invoiceDate": "2026-09-14",
+    "dueDate": "2026-10-14",
+    "paymentTerms": "30 days",
+    "lineItems": [
+      {
+        "id": "L-1",
+        "incomeId": "INC2026001",
+        "description": "Registered Nurse - September Week 1 (John Smith)",
+        "quantity": 16,
+        "rate": 72,
+        "amount": 1152
+      }
+    ],
+    "subtotal": 1152,
+    "tax": 0,
+    "total": 1152,
+    "amountPaid": 1152,
+    "balance": 0,
+    "status": "Paid",
+    "notes": "Paid in full via ACH wire reference #ACH-983210.",
+    "createdAt": "2026-09-14T11:00:00Z",
+    "updatedAt": "2026-09-16T14:30:00Z",
+    "version": 2
+  },
+  {
+    "id": "INV20260013",
+    "organizationId": "ORG-001",
+    "clientId": "CLI00121",
+    "invoiceNumber": "INV-2026-0013",
+    "invoiceDate": "2026-09-14",
+    "dueDate": "2026-10-29",
+    "paymentTerms": "45 days",
+    "lineItems": [
+      {
+        "id": "L-2",
+        "incomeId": "INC2026002",
+        "description": "Principal Cloud Solutions Architect (Elena Rodriguez) - Reg Hours",
+        "quantity": 40,
+        "rate": 145,
+        "amount": 5800
+      },
+      {
+        "id": "L-3",
+        "incomeId": "INC2026002",
+        "description": "Principal Cloud Solutions Architect (Elena Rodriguez) - Approved Overtime",
+        "quantity": 2,
+        "rate": 217.5,
+        "amount": 435
+      }
+    ],
+    "subtotal": 6235,
+    "tax": 0,
+    "total": 6235,
+    "amountPaid": 0,
+    "balance": 6235,
+    "status": "Open",
+    "notes": "Submitted through Apex automated vendor portal.",
+    "createdAt": "2026-09-14T14:00:00Z",
+    "updatedAt": "2026-09-14T14:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "INV20260009",
+    "organizationId": "ORG-001",
+    "clientId": "CLI00122",
+    "invoiceNumber": "INV-2026-0009",
+    "invoiceDate": "2026-07-20",
+    "dueDate": "2026-08-19",
+    "paymentTerms": "30 days",
+    "lineItems": [
+      {
+        "id": "L-4",
+        "description": "Clinical Nursing Staffing - July Cycle",
+        "quantity": 80,
+        "rate": 78,
+        "amount": 6240
+      }
+    ],
+    "subtotal": 6240,
+    "tax": 0,
+    "total": 6240,
+    "amountPaid": 3000,
+    "balance": 3240,
+    "status": "Partially Paid",
+    "notes": "First installment received. Followed up with AP contact Rachel Sterling.",
+    "createdAt": "2026-07-20T10:00:00Z",
+    "updatedAt": "2026-08-10T15:00:00Z",
+    "version": 2
+  },
+  {
+    "id": "INV20260006",
+    "organizationId": "ORG-001",
+    "clientId": "CLI00123",
+    "invoiceNumber": "INV-2026-0006",
+    "invoiceDate": "2026-06-25",
+    "dueDate": "2026-07-10",
+    "paymentTerms": "15 days",
+    "lineItems": [
+      {
+        "id": "L-5",
+        "description": "DevOps & SRE Engineering Support - June Cycle",
+        "quantity": 40,
+        "rate": 130,
+        "amount": 5200
+      }
+    ],
+    "subtotal": 5200,
+    "tax": 0,
+    "total": 5200,
+    "amountPaid": 0,
+    "balance": 5200,
+    "status": "Overdue",
+    "notes": "Escalated to VP Finance.",
+    "createdAt": "2026-06-25T10:00:00Z",
+    "updatedAt": "2026-07-15T09:00:00Z",
+    "version": 1
+  }
+]

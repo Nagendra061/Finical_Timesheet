@@ -1,0 +1,6 @@
+{
+  "name": "Staffing Financial & Timesheet Management System",
+  "description": "Professional staffing financial and timesheet management system for managing employees, clients, jobs, placements, timesheets, invoicing, AR, AP, and margins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

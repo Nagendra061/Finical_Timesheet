@@ -1,0 +1,375 @@
+[
+  {
+    "id": "TS20260901",
+    "organizationId": "ORG-001",
+    "placementId": "PLC20260125",
+    "employeeId": "EMP00125",
+    "clientId": "CLI00120",
+    "jobId": "JOB20260045",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-09-13",
+    "dailyEntries": [
+      {
+        "date": "2026-09-07",
+        "dayOfWeek": "Mon",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0,
+        "notes": "Off"
+      },
+      {
+        "date": "2026-09-08",
+        "dayOfWeek": "Tue",
+        "regularHours": 8,
+        "overtimeHours": 0,
+        "holidayHours": 0,
+        "notes": "Med-Surg Ward Shift"
+      },
+      {
+        "date": "2026-09-09",
+        "dayOfWeek": "Wed",
+        "regularHours": 8,
+        "overtimeHours": 0,
+        "holidayHours": 0,
+        "notes": "Med-Surg Ward Shift"
+      },
+      {
+        "date": "2026-09-10",
+        "dayOfWeek": "Thu",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0,
+        "notes": "Off"
+      },
+      {
+        "date": "2026-09-11",
+        "dayOfWeek": "Fri",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0,
+        "notes": "Off"
+      },
+      {
+        "date": "2026-09-12",
+        "dayOfWeek": "Sat",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0,
+        "notes": "Off"
+      },
+      {
+        "date": "2026-09-13",
+        "dayOfWeek": "Sun",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0,
+        "notes": "Off"
+      }
+    ],
+    "regularHours": 16,
+    "overtimeHours": 0,
+    "holidayHours": 0,
+    "totalHours": 16,
+    "status": "Approved",
+    "approvedBy": "Sarah Connor (Staffing Director)",
+    "approvalDate": "2026-09-14T09:15:00Z",
+    "submittedAt": "2026-09-13T19:00:00Z",
+    "incomeId": "INC2026001",
+    "billId": "BIL20260088",
+    "createdAt": "2026-09-13T18:45:00Z",
+    "updatedAt": "2026-09-14T09:15:00Z",
+    "version": 2
+  },
+  {
+    "id": "TS20260902",
+    "organizationId": "ORG-001",
+    "placementId": "PLC20260126",
+    "employeeId": "EMP00126",
+    "clientId": "CLI00121",
+    "jobId": "JOB20260046",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-09-13",
+    "dailyEntries": [
+      {
+        "date": "2026-09-07",
+        "dayOfWeek": "Mon",
+        "regularHours": 8,
+        "overtimeHours": 0,
+        "holidayHours": 0,
+        "notes": "Architecture workshop"
+      },
+      {
+        "date": "2026-09-08",
+        "dayOfWeek": "Tue",
+        "regularHours": 8,
+        "overtimeHours": 0,
+        "holidayHours": 0,
+        "notes": "Cloud migration plan"
+      },
+      {
+        "date": "2026-09-09",
+        "dayOfWeek": "Wed",
+        "regularHours": 8,
+        "overtimeHours": 2,
+        "holidayHours": 0,
+        "notes": "Late incident response drill"
+      },
+      {
+        "date": "2026-09-10",
+        "dayOfWeek": "Thu",
+        "regularHours": 8,
+        "overtimeHours": 0,
+        "holidayHours": 0,
+        "notes": "Terraform blueprint review"
+      },
+      {
+        "date": "2026-09-11",
+        "dayOfWeek": "Fri",
+        "regularHours": 8,
+        "overtimeHours": 0,
+        "holidayHours": 0,
+        "notes": "Security audit sprint"
+      },
+      {
+        "date": "2026-09-12",
+        "dayOfWeek": "Sat",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-13",
+        "dayOfWeek": "Sun",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      }
+    ],
+    "regularHours": 40,
+    "overtimeHours": 2,
+    "holidayHours": 0,
+    "totalHours": 42,
+    "status": "Approved",
+    "approvedBy": "Geoffrey Barnes (VP Eng)",
+    "approvalDate": "2026-09-14T10:30:00Z",
+    "submittedAt": "2026-09-13T20:00:00Z",
+    "incomeId": "INC2026002",
+    "billId": "BIL20260089",
+    "createdAt": "2026-09-13T19:30:00Z",
+    "updatedAt": "2026-09-14T10:30:00Z",
+    "version": 2
+  },
+  {
+    "id": "TS20260903",
+    "organizationId": "ORG-001",
+    "placementId": "PLC20260127",
+    "employeeId": "EMP00127",
+    "clientId": "CLI00121",
+    "jobId": "JOB20260047",
+    "periodStartDate": "2026-09-07",
+    "periodEndDate": "2026-09-13",
+    "dailyEntries": [
+      {
+        "date": "2026-09-07",
+        "dayOfWeek": "Mon",
+        "regularHours": 8,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-08",
+        "dayOfWeek": "Tue",
+        "regularHours": 8,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-09",
+        "dayOfWeek": "Wed",
+        "regularHours": 8,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-10",
+        "dayOfWeek": "Thu",
+        "regularHours": 8,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-11",
+        "dayOfWeek": "Fri",
+        "regularHours": 8,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-12",
+        "dayOfWeek": "Sat",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-13",
+        "dayOfWeek": "Sun",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      }
+    ],
+    "regularHours": 40,
+    "overtimeHours": 0,
+    "holidayHours": 0,
+    "totalHours": 40,
+    "status": "Submitted",
+    "submittedAt": "2026-09-14T08:00:00Z",
+    "createdAt": "2026-09-14T07:45:00Z",
+    "updatedAt": "2026-09-14T08:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "TS20260904",
+    "organizationId": "ORG-001",
+    "placementId": "PLC20260128",
+    "employeeId": "EMP00128",
+    "clientId": "CLI00122",
+    "jobId": "JOB20260048",
+    "periodStartDate": "2026-09-14",
+    "periodEndDate": "2026-09-20",
+    "dailyEntries": [
+      {
+        "date": "2026-09-14",
+        "dayOfWeek": "Mon",
+        "regularHours": 12,
+        "overtimeHours": 0,
+        "holidayHours": 0,
+        "notes": "ER 12h shift"
+      },
+      {
+        "date": "2026-09-15",
+        "dayOfWeek": "Tue",
+        "regularHours": 12,
+        "overtimeHours": 0,
+        "holidayHours": 0,
+        "notes": "ER 12h shift"
+      },
+      {
+        "date": "2026-09-16",
+        "dayOfWeek": "Wed",
+        "regularHours": 12,
+        "overtimeHours": 0,
+        "holidayHours": 0,
+        "notes": "ER 12h shift"
+      },
+      {
+        "date": "2026-09-17",
+        "dayOfWeek": "Thu",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-18",
+        "dayOfWeek": "Fri",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-19",
+        "dayOfWeek": "Sat",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-20",
+        "dayOfWeek": "Sun",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      }
+    ],
+    "regularHours": 36,
+    "overtimeHours": 0,
+    "holidayHours": 0,
+    "totalHours": 36,
+    "status": "Draft",
+    "createdAt": "2026-09-16T18:00:00Z",
+    "updatedAt": "2026-09-17T09:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "TS20260905",
+    "organizationId": "ORG-001",
+    "placementId": "PLC20260129",
+    "employeeId": "EMP00129",
+    "clientId": "CLI00123",
+    "jobId": "JOB20260049",
+    "periodStartDate": "2026-08-31",
+    "periodEndDate": "2026-09-06",
+    "dailyEntries": [
+      {
+        "date": "2026-08-31",
+        "dayOfWeek": "Mon",
+        "regularHours": 8,
+        "overtimeHours": 4,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-01",
+        "dayOfWeek": "Tue",
+        "regularHours": 8,
+        "overtimeHours": 4,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-02",
+        "dayOfWeek": "Wed",
+        "regularHours": 8,
+        "overtimeHours": 2,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-03",
+        "dayOfWeek": "Thu",
+        "regularHours": 8,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-04",
+        "dayOfWeek": "Fri",
+        "regularHours": 8,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-05",
+        "dayOfWeek": "Sat",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      },
+      {
+        "date": "2026-09-06",
+        "dayOfWeek": "Sun",
+        "regularHours": 0,
+        "overtimeHours": 0,
+        "holidayHours": 0
+      }
+    ],
+    "regularHours": 40,
+    "overtimeHours": 10,
+    "holidayHours": 0,
+    "totalHours": 50,
+    "status": "Rejected",
+    "rejectionReason": "Overtime hours for Aug 31 and Sept 01 exceeded pre-approved client project budget. Please attach approval ticket.",
+    "submittedAt": "2026-09-07T08:30:00Z",
+    "createdAt": "2026-09-06T20:00:00Z",
+    "updatedAt": "2026-09-08T11:20:00Z",
+    "version": 2
+  }
+]

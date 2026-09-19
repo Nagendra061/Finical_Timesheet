@@ -1,0 +1,30 @@
+[
+  {
+    "id": "PAY20260042",
+    "organizationId": "ORG-001",
+    "invoiceId": "INV20260012",
+    "clientId": "CLI00120",
+    "paymentDate": "2026-09-16",
+    "amount": 1152,
+    "paymentMethod": "ACH",
+    "referenceNumber": "ACH-983210",
+    "status": "Completed",
+    "notes": "Full payment received for John Smith placement timesheet TS20260901.",
+    "createdAt": "2026-09-16T14:30:00Z",
+    "updatedAt": "2026-09-16T14:30:00Z"
+  },
+  {
+    "id": "PAY20260040",
+    "organizationId": "ORG-001",
+    "invoiceId": "INV20260009",
+    "clientId": "CLI00122",
+    "paymentDate": "2026-08-10",
+    "amount": 3000,
+    "paymentMethod": "Wire",
+    "referenceNumber": "WIRE-88421",
+    "status": "Completed",
+    "notes": "Partial payment received.",
+    "createdAt": "2026-08-10T15:00:00Z",
+    "updatedAt": "2026-08-10T15:00:00Z"
+  }
+]
