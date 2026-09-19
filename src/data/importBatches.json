@@ -1,0 +1,38 @@
+[
+  {
+    "id": "IMP-2026-001",
+    "fileName": "employees_q3_onboarding.csv",
+    "fileType": "employees",
+    "receivedDate": "2026-09-01T08:00:00Z",
+    "recordsRead": 25,
+    "recordsImported": 24,
+    "recordsRejected": 1,
+    "status": "Completed with Errors",
+    "errors": [
+      {
+        "row": 18,
+        "field": "email",
+        "error": "Invalid email address format: \"johndoe@@domain\"",
+        "rawData": {
+          "employee_id": "EMP00199",
+          "first_name": "John",
+          "last_name": "Doe",
+          "email": "johndoe@@domain"
+        }
+      }
+    ],
+    "rawContent": "employee_id,employee_type,first_name,last_name,email,status,hire_date\nEMP00125,W2,John,Smith,john.smith@example.com,Active,2026-08-01\nEMP00126,1099,Elena,Rodriguez,elena.rodriguez@cloudtech.io,Active,2026-07-15"
+  },
+  {
+    "id": "IMP-2026-002",
+    "fileName": "clients_master_2026.csv",
+    "fileType": "clients",
+    "receivedDate": "2026-08-20T10:15:00Z",
+    "recordsRead": 12,
+    "recordsImported": 12,
+    "recordsRejected": 0,
+    "status": "Completed",
+    "errors": [],
+    "rawContent": "client_id,name,status,payment_terms,contact_name,contact_email\nCLI00120,ABC Healthcare System,Active,30 days,Dr. Amanda Vance,amanda.vance@abchealth.org\nCLI00121,Apex Fintech Solutions,Active,45 days,Geoffrey Barnes,gbarnes@apexfintech.com"
+  }
+]

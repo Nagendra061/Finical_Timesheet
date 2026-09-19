@@ -1,0 +1,30 @@
+[
+  {
+    "id": "APPAY20260050",
+    "organizationId": "ORG-001",
+    "billId": "BIL20260088",
+    "employeeId": "EMP00125",
+    "paymentDate": "2026-09-18",
+    "amount": 768,
+    "paymentMethod": "Direct Deposit",
+    "referenceNumber": "DD-2026-904",
+    "status": "Completed",
+    "notes": "Bi-weekly W2 clinical payroll deposit.",
+    "createdAt": "2026-09-18T10:00:00Z",
+    "updatedAt": "2026-09-18T10:00:00Z"
+  },
+  {
+    "id": "APPAY20260048",
+    "organizationId": "ORG-001",
+    "billId": "BIL20260085",
+    "employeeId": "EMP00127",
+    "paymentDate": "2026-09-08",
+    "amount": 1560,
+    "paymentMethod": "Direct Deposit",
+    "referenceNumber": "DD-2026-891",
+    "status": "Completed",
+    "notes": "Advance payroll installment.",
+    "createdAt": "2026-09-08T11:00:00Z",
+    "updatedAt": "2026-09-08T11:00:00Z"
+  }
+]

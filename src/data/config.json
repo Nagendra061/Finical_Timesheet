@@ -1,0 +1,29 @@
+{
+  "id": "ORG-001",
+  "name": "Apex Staffing Solutions LLC",
+  "currency": "USD",
+  "timezone": "America/Chicago",
+  "fiscalYearStart": "January",
+  "numbering": {
+    "employeePrefix": "EMP",
+    "clientPrefix": "CLI",
+    "jobPrefix": "JOB",
+    "placementPrefix": "PLC",
+    "timesheetPrefix": "TS",
+    "incomePrefix": "INC",
+    "invoicePrefix": "INV",
+    "paymentPrefix": "PAY",
+    "billPrefix": "BIL",
+    "nextNumbers": {
+      "EMP": 132,
+      "CLI": 125,
+      "JOB": 52,
+      "PLC": 130,
+      "TS": 110,
+      "INC": 108,
+      "INV": 106,
+      "PAY": 105,
+      "BIL": 108
+    }
+  }
+}

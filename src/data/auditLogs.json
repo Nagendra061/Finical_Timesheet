@@ -1,0 +1,62 @@
+[
+  {
+    "id": "AUD-501",
+    "organizationId": "ORG-001",
+    "action": "APPROVE",
+    "entity": "Timesheet",
+    "entityId": "TS20260901",
+    "user": "Sarah Connor (Staffing Director)",
+    "timestamp": "2026-09-14T09:15:00Z",
+    "previousValue": "Submitted",
+    "newValue": "Approved",
+    "details": "Approved 16 regular clinical hours for John Smith. Auto-generated Income INC2026001 ($1,152) and AP Bill BIL20260088 ($768)."
+  },
+  {
+    "id": "AUD-502",
+    "organizationId": "ORG-001",
+    "action": "GENERATE_INVOICE",
+    "entity": "Invoice",
+    "entityId": "INV20260012",
+    "user": "Finance Operations Admin",
+    "timestamp": "2026-09-14T11:00:00Z",
+    "previousValue": "Unbilled",
+    "newValue": "Billed",
+    "details": "Compiled approved income INC2026001 into Invoice INV-2026-0012 ($1,152.00) for ABC Healthcare."
+  },
+  {
+    "id": "AUD-503",
+    "organizationId": "ORG-001",
+    "action": "RECORD_PAYMENT",
+    "entity": "ARPayment",
+    "entityId": "PAY20260042",
+    "user": "Billing Specialist",
+    "timestamp": "2026-09-16T14:30:00Z",
+    "previousValue": "Balance $1,152.00 (Open)",
+    "newValue": "Balance $0.00 (Paid)",
+    "details": "Processed client remittance ACH-983210 ($1,152.00) from ABC Healthcare."
+  },
+  {
+    "id": "AUD-504",
+    "organizationId": "ORG-001",
+    "action": "RECORD_PAYMENT",
+    "entity": "APPayment",
+    "entityId": "APPAY20260050",
+    "user": "Payroll Specialist",
+    "timestamp": "2026-09-18T10:00:00Z",
+    "previousValue": "Balance $768.00 (Unpaid)",
+    "newValue": "Balance $0.00 (Paid)",
+    "details": "Disbursed worker compensation direct deposit DD-2026-904 ($768.00) to John Smith."
+  },
+  {
+    "id": "AUD-505",
+    "organizationId": "ORG-001",
+    "action": "REJECT",
+    "entity": "Timesheet",
+    "entityId": "TS20260905",
+    "user": "Finance Operations Admin",
+    "timestamp": "2026-09-08T11:20:00Z",
+    "previousValue": "Submitted",
+    "newValue": "Rejected",
+    "details": "Rejected David Miller timesheet due to exceeding unapproved overtime thresholds."
+  }
+]

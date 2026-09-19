@@ -1,0 +1,130 @@
+[
+  {
+    "id": "CLI00120",
+    "organizationId": "ORG-001",
+    "name": "ABC Healthcare System",
+    "status": "Active",
+    "paymentTerms": "30 days",
+    "contacts": [
+      {
+        "id": "CON-1",
+        "name": "Dr. Amanda Vance",
+        "email": "amanda.vance@abchealth.org",
+        "phone": "(214) 555-7001",
+        "title": "Director of Clinical Operations",
+        "isPrimary": true
+      },
+      {
+        "id": "CON-2",
+        "name": "Carlos Mendez",
+        "email": "cmendez@abchealth.org",
+        "phone": "(214) 555-7002",
+        "title": "AP & Vendor Relations Manager",
+        "isPrimary": false
+      }
+    ],
+    "primaryContactName": "Dr. Amanda Vance",
+    "primaryContactEmail": "amanda.vance@abchealth.org",
+    "billingAddress": "4200 Medical Parkway, Suite 500, Dallas, TX 75201",
+    "industry": "Hospital & Healthcare",
+    "createdAt": "2026-06-01T08:00:00Z",
+    "updatedAt": "2026-09-01T10:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "CLI00121",
+    "organizationId": "ORG-001",
+    "name": "Apex Fintech Solutions",
+    "status": "Active",
+    "paymentTerms": "45 days",
+    "contacts": [
+      {
+        "id": "CON-3",
+        "name": "Geoffrey Barnes",
+        "email": "gbarnes@apexfintech.com",
+        "phone": "(212) 555-9800",
+        "title": "VP of Engineering",
+        "isPrimary": true
+      }
+    ],
+    "primaryContactName": "Geoffrey Barnes",
+    "primaryContactEmail": "gbarnes@apexfintech.com",
+    "billingAddress": "100 Wall Street, 18th Floor, New York, NY 10005",
+    "industry": "Financial Technology",
+    "createdAt": "2026-05-15T09:00:00Z",
+    "updatedAt": "2026-08-20T12:00:00Z",
+    "version": 1
+  },
+  {
+    "id": "CLI00122",
+    "organizationId": "ORG-001",
+    "name": "Metro Health Systems",
+    "status": "Active",
+    "paymentTerms": "30 days",
+    "contacts": [
+      {
+        "id": "CON-4",
+        "name": "Rachel Sterling",
+        "email": "rsterling@metrohealth.net",
+        "phone": "(312) 555-1199",
+        "title": "Talent Acquisition Partner",
+        "isPrimary": true
+      }
+    ],
+    "primaryContactName": "Rachel Sterling",
+    "primaryContactEmail": "rsterling@metrohealth.net",
+    "billingAddress": "880 North Michigan Ave, Chicago, IL 60611",
+    "industry": "Healthcare & Life Sciences",
+    "createdAt": "2026-07-01T10:00:00Z",
+    "updatedAt": "2026-09-05T14:30:00Z",
+    "version": 1
+  },
+  {
+    "id": "CLI00123",
+    "organizationId": "ORG-001",
+    "name": "Global Cloud Systems",
+    "status": "Active",
+    "paymentTerms": "15 days",
+    "contacts": [
+      {
+        "id": "CON-5",
+        "name": "Lisa Wang",
+        "email": "lwang@globalcloud.io",
+        "phone": "(415) 555-4321",
+        "title": "Procurement Specialist",
+        "isPrimary": true
+      }
+    ],
+    "primaryContactName": "Lisa Wang",
+    "primaryContactEmail": "lwang@globalcloud.io",
+    "billingAddress": "500 Howard Street, San Francisco, CA 94105",
+    "industry": "Enterprise Software",
+    "createdAt": "2026-04-10T08:00:00Z",
+    "updatedAt": "2026-08-28T09:15:00Z",
+    "version": 1
+  },
+  {
+    "id": "CLI00124",
+    "organizationId": "ORG-001",
+    "name": "Horizon Biotech Laboratories",
+    "status": "Inactive",
+    "paymentTerms": "60 days",
+    "contacts": [
+      {
+        "id": "CON-6",
+        "name": "Simon Davis",
+        "email": "sdavis@horizonbio.com",
+        "phone": "(617) 555-6789",
+        "title": "Operations Director",
+        "isPrimary": true
+      }
+    ],
+    "primaryContactName": "Simon Davis",
+    "primaryContactEmail": "sdavis@horizonbio.com",
+    "billingAddress": "200 Technology Square, Cambridge, MA 02139",
+    "industry": "Biotechnology",
+    "createdAt": "2026-02-15T09:00:00Z",
+    "updatedAt": "2026-07-30T16:00:00Z",
+    "version": 1
+  }
+]
